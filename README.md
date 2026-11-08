@@ -1,12 +1,12 @@
-Hey !
+## Hey !
 
 I am a Developer from Upper Austria, focused on Full-Stack development.
 I am still learning at HTL Steyr
 
 ## What I'm up to
-- 🔭 Currently working on: [project]
-- 🌱 Learning: [technology]
-- 💬 Ask me about: [topics]
+- 🔭 Currently working on: A JavaFX project called "TowerDefense" for our school
+- 🌱 Learning: Python | PhP
+
 
 ## Tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,9 +23,6 @@ I am still learning at HTL Steyr
 |---|---|
 | [project-one](https://github.com/yourname/project-one) | One-line description |
 | [project-two](https://github.com/yourname/project-two) | One-line description |
-
-## GitHub stats
-![Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=default)
 
 ## Get in touch
 · [Email](kreismayr.lorenz@outlook.com) ·
