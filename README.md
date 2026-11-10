@@ -20,9 +20,7 @@ I am still learning at HTL Steyr
 
 ## Featured projects
 | Project | Description |
-|---|---|
-| [project-one](https://github.com/yourname/project-one) | One-line description |
-| [project-two](https://github.com/yourname/project-two) | One-line description |
+- nothing to see yet -
 
 ## Get in touch
 · [Email](kreismayr.lorenz@outlook.com) ·
